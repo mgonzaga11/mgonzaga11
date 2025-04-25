@@ -26,6 +26,5 @@
 		<h4>Tools:</h4>
 		<img alt="GIT" src="https://img.shields.io/badge/git-000?style=flat&logo=git&logoColor=E94D5F" />
 		<img alt="GIT_HUB" src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=FFF" />
-		<img alt="SQL" src="https://img.shields.io/badge/Mysql-000?style=flat&logo=mysql&logoColor=264CE4" />
 	</div>
 </div>
